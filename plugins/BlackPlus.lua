@@ -1,12 +1,6 @@
 --[[
 
-     **************************
-     *  BlackPlus Plugins...  *
-     *                        *
-     *     By @MehdiHS        *
-     *                        *
-     *  Channel > @Black_Ch   *
-     **************************
+    @SINGLECYBER
 	 
 ]]
 do
@@ -154,11 +148,11 @@ return {
     "^[#!/]([Ss]tats)$",
     "^[#!/]([Ss]tatslist)$",
     "^[#!/]([Ss]tats) (group) (%d+)",
-    "^[#!/]([Ss]tats) (blackplus)",
+    "^[#!/]([Ss]tats) (PowerSource)",
     "^([Ss]tats)$",
     "^([Ss]tatslist)$",
     "^([Ss]tats) (group) (%d+)",
-    "^([Ss]tats) (blackplus)",
+    "^([Ss]tats) (PowerSource)",
     }, 
   run = run
 }
@@ -168,9 +162,9 @@ end
      **************************
      *  BlackPlus Plugins...  *
      *                        *
-     *     By @MehdiHS        *
+     *     By @SINGLECYBER    *
      *                        *
-     *  Channel > @Black_Ch   *
+     *Channel > @SINGLECYBERCHANNEL*
      **************************
 	 
 ]]
