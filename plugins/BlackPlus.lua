@@ -160,7 +160,7 @@ end
 --[[
 
      **************************
-     *  BlackPlus Plugins...  *
+     *  PowerSouce Plugins...  *
      *                        *
      *     By @SINGLECYBER    *
      *                        *
