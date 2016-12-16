@@ -68,8 +68,8 @@ return {
 	description = "Get Map Location by Name", 
 	usage = {
 		"map loc (name) : لوکيشن",
-		"map link (name) : لينک گوگل مپ",
-		"map map (name) : نقشه",
+		"map link (name) : لينک گوگل مپ",h		
+"map map (name) : نقشه",
 		"map view (name) : تصوير واقعي",
 		"map gps (name) : مختصات",
 	},
